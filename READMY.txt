@@ -1,0 +1,10 @@
+Vadym Lakei
+currency_calculator
+
+for verification you need to copy the repository, open dump database, 
+rename the "congig/config.example.php"  file into "config/config.php" 
+and specify the connection data
+
+для Проверки нужно скопировать репозиторий, развернуть дамп базы,
+переименовать файл "congig/config.example.php" в "config/config.php" 
+и указать данные для подключения.
